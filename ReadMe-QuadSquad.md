@@ -3,6 +3,10 @@
 ## steps to do:-
 1. clone this Repo and add it as submodule to the project.
 2. A branch called "quad-melodic" has been created for us to work on it and modfy it if needed.
+3. switch to this branch within the submodule by navigate to the submodule and 
+```bash
+git checkout quad-melodic
+```
 
 ## Usage
 for starting the auto-tracker for the QR-code using your private camera:-
